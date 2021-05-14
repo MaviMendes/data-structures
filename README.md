@@ -3,6 +3,6 @@ Implementation of data structures developed in 2021 based on graduation courses 
 
 1. Stacks
      - Static
-     - Dynamic
+     - Dynamic\
 Summary:
 ![Stack](/img/stack.jpg)
