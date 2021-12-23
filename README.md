@@ -9,3 +9,5 @@ Both implementations consist of a header file (.h), a program defining the class
     
 Summary:\
 ![Stack](/img/stack.jpg)
+
+<br> This folder is being organized and materials will be displayed soon
